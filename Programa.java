@@ -5,7 +5,8 @@ public class Programa{
         //Exercicio01.Executar01();
         //Exercicio02.Executar02();
         //Exercicio03.Executar03();
-        Exercicio04.Executar04();
+        //Exercicio04.Executar04();
+        Exercicio05.Executar05();
 
     }
 
