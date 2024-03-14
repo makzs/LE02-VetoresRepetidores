@@ -17,11 +17,11 @@ public class Exercicio04 {
         System.out.println("Informe um valor qualquer: ");
         int n = leitor.nextInt();
 
-        System.out.println("Os valores informados que são inferiores a esse valor qualquer são: ");
+        System.out.println("Os indices dos valores informados que são inferiores a esse valor qualquer são: ");
 
         for (int i = 0; i < valores.length; i++){
             if (valores[i] < n){
-                System.out.print(valores[i] + " - ");
+                System.out.print("indice " + i + " - ");
             }
         }
 
